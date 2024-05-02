@@ -35,3 +35,19 @@ make pdf
 ```
 respectively.
 
+
+## Notices
+
+The file `style.css` is copyright Christophe-Marie Duquesne <chmd@chmd.fr> and licensed under CC BY-SA 3.0.
+
+I have modified the colors and aspects of the spacing.
+
+The original notice:
+
+> Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+>
+> CSS for making a resume with pandoc. Inspired by moderncv.
+>
+> This CSS document is delivered to you under the CC BY-SA 3.0 License.
+> https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
