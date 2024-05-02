@@ -24,17 +24,17 @@ Make your edits to `resume.md` with your favorite text editor, then run the make
 make
 ```
 
-If you want only the `html` or the `pdf`, then run either
+If you want only the `html`, the `pdf`, or the `docx`, then run one of the following:
 
 ```bash
 make html
 ```
-or 
 ```bash
 make pdf
 ```
-respectively.
-
+```bash
+make docx
+```
 
 ## Notices
 
