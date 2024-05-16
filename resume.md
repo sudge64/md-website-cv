@@ -12,7 +12,7 @@ A Little About Me
 :  Hello! My name is Christian J. Wade, but please, call me C.J.
 :  I'm a Computer Science graduate with a concentration in software engineering.
 :  I like to work in low-level environments, microcontrollers for instance. The `RP2040` being a favorite of mine.
-:  (By the way, the resume you're reading is either a `HTML` or `pdf` file generated from a `markdown` source through `pandoc`.)
+:  (By the way, the resume you're reading is either an `HTML` or `PDF` file generated from a `MARKDOWN` source through `pandoc`.)
 
 Education
 ---------
