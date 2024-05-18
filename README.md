@@ -36,6 +36,12 @@ make pdf
 make docx
 ```
 
+Use this command for exporting to [cj-wade.com](https://www.cj-wade.com).
+
+```bash
+make html_export
+```
+
 ## Notices
 
 The file `style.css` is copyright Christophe-Marie Duquesne <chmd@chmd.fr> and licensed under CC BY-SA 3.0.
