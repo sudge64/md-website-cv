@@ -8,8 +8,14 @@ render:
 
 html:
 	pandoc --standalone resume.md -t html -c style.css -o resume.html
-	awk '/<link rel="stylesheet" href="style.css" \/>/ {print "<style>"; system("cat style.css"); print "</style>"; next} 1' resume.html > temp
-	mv temp resume.html
+
+html_export:
+	pandoc --standalone resume.md -t html -c style-export.css -o resume.html
+	awk '/<!DOCTYPE html>/ {print "---"; print "layout: \"layout.html\""; print "---"; print "<!DOCTYPE html>"; next} 1' resume.html > temp1
+	awk '/<link rel="stylesheet" href="style.css" \/>/ {print "<style>"; system("cat style.css"); print "</style>"; next} 1' temp1 > temp2
+	rm temp1
+	mv temp2 resume_export.html
+
 
 pdf:
 	pandoc --standalone resume.md -t html --pdf-engine=wkhtmltopdf -V margin-top=0.15 -V margin-left=0.15 -V margin-right=0.15 -V margin-bottom=0.15 -V papersize=letter -c style.css -o resume.pdf
