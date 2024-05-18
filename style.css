@@ -34,16 +34,6 @@ h2 {
     /*color: #397249;*/
     color: #1e66f5;
 }
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 5px;
-    /*background-color: #9CB770;*/
-    background-color: #1e66f5;
-}
 
 /* Definitions */
 dt {
@@ -63,20 +53,6 @@ p {
 /* Blockquotes */
 blockquote {
     text-align: center
-}
-
-/* Links */
-a {
-    text-decoration: none;
-    /*color: #397249;*/
-    color: #1e66f5;
-}
-a:hover, a:active {
-    /*background-color: #397249;*/
-    background-color: #1e66f5;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
 }
 
 /* Horizontal separators */
