@@ -17,6 +17,10 @@ A Little About Me
 Education
 ---------
 
+2024 - Continuing
+:  **Robotics & Industrial Controls**
+:  Texas State Technical College, Waco, TX
+
 2018 - 2023
 :   **Bachelor of Science, Computer Science**
 :   Tarleton State University, Stephenville, TX
@@ -65,11 +69,11 @@ Jun. 2023 - Continuing
     * Used to download specified applications
     * Delivered preconfigured dot-files into respective directories
 
-Dec. 2021 - May 2022
-:   **Raspberry Pi Server**
+Dec. 2021 - Continuing
+:   **Custom Server**
 
-    * Assembled a custom Raspberry Pi Network Attached Storage server
-    * Deployed Docker images for the automatic syncing of files across computers
+    * Assembled a custom virtualization and storage server
+    * Deployed LXC and Docker containers for the hosting of services
     * Constructed low cost server rack from lumber
 
 Dec. 2021
