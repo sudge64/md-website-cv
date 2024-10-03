@@ -1,4 +1,4 @@
-render:
+all:
 	pandoc --standalone resume.md -t html -c style.css -o resume.html
 	awk '/<link rel="stylesheet" href="style.css" \/>/ {print "<style>"; system("cat style.css"); print "</style>"; next} 1' resume.html > temp
 	mv temp resume.html
