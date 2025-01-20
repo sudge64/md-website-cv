@@ -17,7 +17,11 @@ A Little About Me
 Education
 ---------
 
-2024 - Continuing
+2025 - Continuing
+:   **Master's of Science, Computer Engineering**
+:   Tarleton State University, Stephenville, TX
+
+2024
 :  **Robotics & Industrial Controls**
 :  Texas State Technical College, Waco, TX
 
