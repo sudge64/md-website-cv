@@ -111,4 +111,4 @@ Video Production
 :   I have experience with video production, from setup to final edit, as well as stop-motion animation.
 
 > <christian.wade@go.tarleton.edu>\
-> <http://cj-wade.com>\
+> <https://cj-wade.com>\
