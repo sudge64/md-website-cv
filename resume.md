@@ -21,10 +21,6 @@ Education
 :   **Master's of Science, Computer Engineering**
 :   Tarleton State University, Stephenville, TX
 
-2024
-:  **Robotics & Industrial Controls**
-:  Texas State Technical College, Waco, TX
-
 2018 - 2023
 :   **Bachelor of Science, Computer Science**
 :   Tarleton State University, Stephenville, TX
