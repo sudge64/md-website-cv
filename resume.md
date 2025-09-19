@@ -30,6 +30,20 @@ Education
 Experience
 ----------
 
+Sep. 2025 - Continuing
+:   **Graduate Assistant**
+
+    * Instructed multiple classes of varied learners
+    * Facilitated productive learning environment for students
+    * Communicated learning outcomes with faculty
+
+Jan. 2025 - May 2025
+:   **Computer Science & Electrical Engineering Tutor**
+
+    * Assisted students in understanding class material
+    * Communicated with faculty on student-raised questions
+    * Managed time while pursuing Master's degree
+
 Jan. 2024 - May 2024
 :   **R&D Engineer @ Adom Inc**
 
@@ -59,6 +73,8 @@ May 2019 - Aug. 2019
     * Operated Alard's ISIS Image Subtraction Package to search data set
     * Corresponded with mentor daily to progress through data set
 
+<div style="page-break-after: always;"></div>
+   
 Projects
 --------
 
